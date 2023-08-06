@@ -4,7 +4,7 @@ const routes = [
   {
     path: '/',
     name: 'Dashboard',
-    component: () => import('@/views/Dashboard/DashView.vue')
+    component: () => import('@/views//Dashboard/DashView')
   },
   {
     path: '/Patient',

@@ -26,7 +26,7 @@ body {
 
 <script>
 import { ref } from "vue";
-import Drawer from "./components/NavDrawer.vue";
+import Drawer from "./components/NavDrawer.vue"
 
 export default {
   name: "LayoutDefault",
